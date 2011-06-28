@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Finance-TA
-version:            v0.3.0
-abstract:           Perl wrapper for ta-lib
+version:            v0.3.0_01
+abstract:           Perl wrapper for Technical Analysis Library
 author:
     - Wim Verhaegen <wimv@cpan.org>
 license:            unknown
