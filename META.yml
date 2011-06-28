@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Finance-TA
-version:            v0.3.0_01
+version:            v0.3.0_02
 abstract:           Perl wrapper for Technical Analysis Library
 author:
     - Wim Verhaegen <wimv@cpan.org>
-license:            unknown
+license:            bsd
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
@@ -12,6 +12,9 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     Test:  0
+resources:
+    homepage:    http://ta-lib.org/
+    repository:  https://github.com/kmx/perl-finance-ta
 no_index:
     directory:
         - t
@@ -21,5 +24,3 @@ generated_by:       ExtUtils::MakeMaker version 6.55_02
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4
-homepage:           http://ta-lib.org/
-repository:         https://github.com/kmx/perl-finance-ta
