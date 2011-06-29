@@ -12,6 +12,6 @@ t/ta_common.t
 t/ta_defs.t
 t/ta_func.t
 TA.pm
-ta.pod
+TA.pod
 ta_libc_wrap.c
 META.yml                                 Module meta-data (added by MakeMaker)
